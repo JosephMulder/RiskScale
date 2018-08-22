@@ -2,9 +2,9 @@
 
 ## How to run
 
-npm install in root directory
-npm run react-dev in root directory
-You can now view in browser if you click index.html in ./client/dist/index.html
+* npm install in root directory
+* npm run react-dev in root directory
+* You can now view in browser if you click index.html in ./client/dist/index.html
 
 ## Authors
 
